@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE project SYSTEM "mga.dtd">
 
-<project guid="{16DA8C4F-A9D7-4BB3-9532-5D3712EC82B5}" cdate="Mon Aug  6 14:51:53 2018" mdate="Mon Aug  6 14:51:53 2018" version="" metaguid="{08AF6D47-590B-0A7D-137D-21B4C1D2DFCD}" metaversion="14.13-t34" metaname="CyPhyML">
+<project guid="{C6708798-629C-4D33-AC0D-1D5E66E2F01F}" cdate="Mon Aug  6 14:51:53 2018" mdate="Mon Aug  6 14:51:53 2018" version="" metaguid="{08AF6D47-590B-0A7D-137D-21B4C1D2DFCD}" metaversion="14.13-t34" metaname="CyPhyML">
 	<name>RootFolder</name>
 	<comment></comment>
 	<author></author>
@@ -32736,91 +32736,91 @@
 						<regnode name="AbstractPortAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="BondGraphAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="Car" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="ConnectorAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="DynamicsAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="ModelicaAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="RFAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="SchematicAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,175</value>
+								<value>63,140</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -32847,6 +32847,93 @@
 					</attribute>
 					<model id="id-0065-00000271" kind="DesignContainer" role="DesignContainer" guid="{87b124df-7fb6-4ff1-bf24-2ab73ea3a6b9}" derivedfrom="id-0065-0000026d" isinstance="no" isprimary="no" childrelidcntr="0x6">
 						<name>Resolution</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="AbstractPortAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="BondGraphAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="Car" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="ConnectorAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="DynamicsAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="ModelicaAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="RFAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SchematicAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="Cardinality" status="meta">
 							<value></value>
 						</attribute>
@@ -33189,6 +33276,93 @@
 					</model>
 					<model id="id-0065-00000272" kind="DesignContainer" role="DesignContainer" guid="{9a7f6fa3-2288-4e4d-a5cf-8228d863cdbe}" derivedfrom="id-0065-0000026e" isinstance="no" isprimary="no" childrelidcntr="0x4">
 						<name>FieldOfView</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="AbstractPortAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="BondGraphAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="Car" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="ConnectorAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="DynamicsAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="ModelicaAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="RFAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SchematicAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="Cardinality" status="meta">
 							<value></value>
 						</attribute>
@@ -33375,6 +33549,39 @@
 					</model>
 					<reference id="id-0067-000001b6" kind="Property" role="Property" guid="{0848720b-8d24-4518-84c0-ac043e5e74c3}" derivedfrom="id-0067-000001b0" isinstance="no" isprimary="no" referred="id-0065-0000000e" isbound="yes">
 						<name>FOV</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="ComputationType" status="meta">
 							<value>Addition</value>
 						</attribute>
@@ -33414,6 +33621,39 @@
 					</reference>
 					<reference id="id-0067-000001b7" kind="Property" role="Property" guid="{34d50258-f4d4-4742-ac84-c337ec63b499}" derivedfrom="id-0067-000001b1" isinstance="no" isprimary="no" isbound="yes">
 						<name>HorizontalResolution</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="ComputationType" status="meta">
 							<value>Addition</value>
 						</attribute>
@@ -33453,6 +33693,39 @@
 					</reference>
 					<reference id="id-0067-000001b8" kind="Property" role="Property" guid="{cb5ed104-4119-4bfb-ae4e-33900928e083}" derivedfrom="id-0067-000001b2" isinstance="no" isprimary="no" isbound="yes">
 						<name>VerticalResolution</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="ComputationType" status="meta">
 							<value>Addition</value>
 						</attribute>
@@ -33516,91 +33789,91 @@
 						<regnode name="AbstractPortAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="BondGraphAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="Car" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="ConnectorAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="DynamicsAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="ModelicaAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="RFAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="SchematicAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,70</value>
+								<value>63,35</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -33627,6 +33900,93 @@
 					</attribute>
 					<model id="id-0065-00000274" kind="DesignContainer" role="DesignContainer" guid="{c0d2c9ca-8332-4b77-8bac-75d3902db853}" derivedfrom="id-0065-0000026d" isinstance="no" isprimary="no" childrelidcntr="0x5">
 						<name>Resolution</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="AbstractPortAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="BondGraphAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="Car" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="ConnectorAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="DynamicsAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="ModelicaAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="RFAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SchematicAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,63</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="Cardinality" status="meta">
 							<value></value>
 						</attribute>
@@ -33969,6 +34329,93 @@
 					</model>
 					<model id="id-0065-00000275" kind="DesignContainer" role="DesignContainer" guid="{6baca448-e91e-4585-a0a0-ec333e57ba8b}" derivedfrom="id-0065-0000026e" isinstance="no" isprimary="no" childrelidcntr="0x4">
 						<name>FieldOfView</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="AbstractPortAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="BondGraphAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="Car" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="ConnectorAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="DynamicsAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="ModelicaAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="RFAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SchematicAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect2" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>105,182</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="Cardinality" status="meta">
 							<value></value>
 						</attribute>
@@ -34155,6 +34602,39 @@
 					</model>
 					<reference id="id-0067-000001bc" kind="Property" role="Property" guid="{1560d839-348e-4551-b438-b93519dd579e}" derivedfrom="id-0067-000001b0" isinstance="no" isprimary="no" referred="id-0065-0000000e" isbound="yes">
 						<name>FOV</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>392,238</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="ComputationType" status="meta">
 							<value>Addition</value>
 						</attribute>
@@ -34194,6 +34674,39 @@
 					</reference>
 					<reference id="id-0067-000001bd" kind="Property" role="Property" guid="{9b5edb52-361e-41a9-9693-75aad7f589c0}" derivedfrom="id-0067-000001b1" isinstance="no" isprimary="no" isbound="yes">
 						<name>HorizontalResolution</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,70</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="ComputationType" status="meta">
 							<value>Addition</value>
 						</attribute>
@@ -34233,6 +34746,39 @@
 					</reference>
 					<reference id="id-0067-000001be" kind="Property" role="Property" guid="{bab71805-7326-4a5d-a300-9e5f4b807eae}" derivedfrom="id-0067-000001b2" isinstance="no" isprimary="no" isbound="yes">
 						<name>VerticalResolution</name>
+						<regnode name="PartRegs" status="undefined">
+							<value></value>
+							<regnode name="DesignSpaceAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="SimulinkAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="SolidModeling" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="SystemCAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+							<regnode name="ValueFlowAspect" status="undefined">
+								<value></value>
+								<regnode name="Position" isopaque="yes">
+									<value>385,126</value>
+								</regnode>
+							</regnode>
+						</regnode>
 						<attribute kind="ComputationType" status="meta">
 							<value>Addition</value>
 						</attribute>
@@ -34296,91 +34842,91 @@
 						<regnode name="AbstractPortAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="BondGraphAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="Car" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="ConnectorAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="DynamicsAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="ModelicaAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="RFAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="SchematicAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,364</value>
+								<value>63,364</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -35407,91 +35953,91 @@
 						<regnode name="AbstractPortAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="BondGraphAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="Car" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="ConnectorAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="DynamicsAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="ModelicaAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="RFAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="SchematicAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect2" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>70,525</value>
+								<value>63,252</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -36418,37 +36964,37 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>658,364</value>
+								<value>658,378</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>658,364</value>
+								<value>658,378</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>658,364</value>
+								<value>658,378</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>658,364</value>
+								<value>658,378</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>658,364</value>
+								<value>658,378</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>658,364</value>
+								<value>658,378</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -36880,7 +37426,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>644,539</value>
+								<value>707,539</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -36907,37 +37453,37 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>378,630</value>
+								<value>378,616</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>378,630</value>
+								<value>378,616</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>378,630</value>
+								<value>378,616</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>378,630</value>
+								<value>378,616</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>378,630</value>
+								<value>378,616</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>378,630</value>
+								<value>378,616</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -36955,7 +37501,7 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>322,693</value>
+								<value>322,679</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
@@ -36967,25 +37513,25 @@
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>322,693</value>
+								<value>322,679</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>322,693</value>
+								<value>322,679</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>322,693</value>
+								<value>322,679</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>322,693</value>
+								<value>322,679</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37003,7 +37549,7 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>406,756</value>
+								<value>483,721</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
@@ -37015,25 +37561,25 @@
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>406,756</value>
+								<value>483,721</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>406,756</value>
+								<value>483,721</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>406,756</value>
+								<value>483,721</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>406,756</value>
+								<value>483,721</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37051,7 +37597,7 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>602,819</value>
+								<value>735,777</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
@@ -37063,25 +37609,25 @@
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>602,819</value>
+								<value>735,777</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>602,819</value>
+								<value>735,777</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>602,819</value>
+								<value>735,777</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>602,819</value>
+								<value>735,777</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37204,37 +37750,37 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>763,371</value>
+								<value>763,385</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>763,371</value>
+								<value>763,385</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>763,371</value>
+								<value>763,385</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>763,371</value>
+								<value>763,385</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>763,371</value>
+								<value>763,385</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>763,371</value>
+								<value>763,385</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37594,37 +38140,37 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,623</value>
+								<value>483,609</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,623</value>
+								<value>483,609</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,623</value>
+								<value>483,609</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,623</value>
+								<value>483,609</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,623</value>
+								<value>483,609</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,623</value>
+								<value>483,609</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37672,7 +38218,7 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,686</value>
+								<value>413,672</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
@@ -37684,25 +38230,25 @@
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,686</value>
+								<value>413,672</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,686</value>
+								<value>413,672</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,686</value>
+								<value>413,672</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>483,686</value>
+								<value>413,672</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37750,7 +38296,7 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>707,735</value>
+								<value>637,714</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
@@ -37762,25 +38308,25 @@
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>707,735</value>
+								<value>637,714</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>707,735</value>
+								<value>637,714</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>707,735</value>
+								<value>637,714</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>707,735</value>
+								<value>637,714</value>
 							</regnode>
 						</regnode>
 					</regnode>
@@ -37828,7 +38374,7 @@
 						<regnode name="All" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>777,812</value>
+								<value>819,770</value>
 							</regnode>
 						</regnode>
 						<regnode name="DesignSpaceAspect" status="undefined">
@@ -37840,25 +38386,25 @@
 						<regnode name="SimulinkAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>777,812</value>
+								<value>819,770</value>
 							</regnode>
 						</regnode>
 						<regnode name="SolidModeling" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>777,812</value>
+								<value>819,770</value>
 							</regnode>
 						</regnode>
 						<regnode name="SystemCAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>777,812</value>
+								<value>819,770</value>
 							</regnode>
 						</regnode>
 						<regnode name="ValueFlowAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>777,812</value>
+								<value>819,770</value>
 							</regnode>
 						</regnode>
 					</regnode>
