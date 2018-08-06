@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE project SYSTEM "mga.dtd">
 
-<project guid="{D5C4D8D2-92BD-4693-BC96-2D420DC106F7}" cdate="Mon Aug  6 14:51:53 2018" mdate="Mon Aug  6 14:51:53 2018" version="" metaguid="{08AF6D47-590B-0A7D-137D-21B4C1D2DFCD}" metaversion="14.13-t34" metaname="CyPhyML">
+<project guid="{D089D721-256E-47A0-8030-89F4B90C6E62}" cdate="Mon Aug  6 14:51:53 2018" mdate="Mon Aug  6 14:51:53 2018" version="" metaguid="{08AF6D47-590B-0A7D-137D-21B4C1D2DFCD}" metaversion="14.13-t34" metaname="CyPhyML">
 	<name>RootFolder</name>
 	<comment></comment>
 	<author></author>
@@ -30181,7 +30181,7 @@
 					<connpoint role="dst" target="id-0067-000001b2"/>
 				</connection>
 			</model>
-			<model id="id-0065-0000026f" kind="DesignContainer" guid="{7a106217-1efe-430e-8324-c69494b99100}" relid="0x2" childrelidcntr="0x32">
+			<model id="id-0065-0000026f" kind="DesignContainer" guid="{7a106217-1efe-430e-8324-c69494b99100}" relid="0x2" childrelidcntr="0x38">
 				<name>UAV</name>
 				<attribute kind="Cardinality" status="meta">
 					<value></value>
@@ -31798,7 +31798,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,280</value>
+								<value>84,378</value>
 							</regnode>
 						</regnode>
 						<regnode name="DynamicsAspect" status="undefined">
@@ -32275,7 +32275,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>84,392</value>
+								<value>84,490</value>
 							</regnode>
 						</regnode>
 						<regnode name="DynamicsAspect" status="undefined">
@@ -32650,7 +32650,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>343,350</value>
+								<value>343,448</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
@@ -32701,7 +32701,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>427,350</value>
+								<value>427,448</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
@@ -32752,7 +32752,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>581,266</value>
+								<value>581,364</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
@@ -33091,6 +33091,81 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
+								<value>742,322</value>
+							</regnode>
+						</regnode>
+						<regnode name="SimulinkAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>742,238</value>
+							</regnode>
+						</regnode>
+						<regnode name="SolidModeling" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>742,238</value>
+							</regnode>
+						</regnode>
+						<regnode name="SystemCAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>742,238</value>
+							</regnode>
+						</regnode>
+						<regnode name="ValueFlowAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>742,238</value>
+							</regnode>
+						</regnode>
+					</regnode>
+					<attribute kind="Expression">
+						<value>MaxPayload - TotalPayloadWeight</value>
+					</attribute>
+					<attribute kind="ID" status="meta">
+						<value></value>
+					</attribute>
+				</atom>
+				<atom id="id-0066-00000103" kind="PropertyConstraint" role="PropertyConstraint" guid="{f9579858-e618-4310-b90a-d0cd79c3f63a}" relid="0x2e">
+					<name>CanHandlePayload</name>
+					<regnode name="PartRegs" status="undefined">
+						<value></value>
+						<regnode name="DesignSpaceAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>980,378</value>
+							</regnode>
+						</regnode>
+					</regnode>
+					<attribute kind="Domain" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="ID" status="meta">
+						<value>0</value>
+					</attribute>
+					<attribute kind="Inactive" status="meta">
+						<value>false</value>
+					</attribute>
+					<attribute kind="TargetType" status="meta">
+						<value>Must Exceed</value>
+					</attribute>
+					<attribute kind="TargetValue" status="meta">
+						<value>0</value>
+					</attribute>
+				</atom>
+				<atom id="id-0066-00000104" kind="CustomFormula" role="CustomFormula" guid="{0448b62c-c8f3-4e8c-9d83-56e516c9b6eb}" relid="0x33">
+					<name>CustomFormula</name>
+					<regnode name="PartRegs" status="undefined">
+						<value></value>
+						<regnode name="All" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>742,238</value>
+							</regnode>
+						</regnode>
+						<regnode name="DesignSpaceAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
 								<value>742,238</value>
 							</regnode>
 						</regnode>
@@ -33120,37 +33195,10 @@
 						</regnode>
 					</regnode>
 					<attribute kind="Expression">
-						<value>MaxPayload - SensorWeight</value>
+						<value>SensorWeight + 0.5</value>
 					</attribute>
 					<attribute kind="ID" status="meta">
 						<value></value>
-					</attribute>
-				</atom>
-				<atom id="id-0066-00000103" kind="PropertyConstraint" role="PropertyConstraint" guid="{f9579858-e618-4310-b90a-d0cd79c3f63a}" relid="0x2e">
-					<name>CanHandlePayload</name>
-					<regnode name="PartRegs" status="undefined">
-						<value></value>
-						<regnode name="DesignSpaceAspect" status="undefined">
-							<value></value>
-							<regnode name="Position" isopaque="yes">
-								<value>987,294</value>
-							</regnode>
-						</regnode>
-					</regnode>
-					<attribute kind="Domain" status="meta">
-						<value></value>
-					</attribute>
-					<attribute kind="ID" status="meta">
-						<value>0</value>
-					</attribute>
-					<attribute kind="Inactive" status="meta">
-						<value>false</value>
-					</attribute>
-					<attribute kind="TargetType" status="meta">
-						<value>Must Exceed</value>
-					</attribute>
-					<attribute kind="TargetValue" status="meta">
-						<value>0</value>
 					</attribute>
 				</atom>
 				<reference id="id-0067-000001c3" kind="Property" role="Property" guid="{3daf0d96-93ad-4410-b915-78024b2be0cb}" relid="0x5">
@@ -33166,7 +33214,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>539,357</value>
+								<value>539,455</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
@@ -33244,7 +33292,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>686,273</value>
+								<value>686,371</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
@@ -33478,7 +33526,7 @@
 						<regnode name="DesignSpaceAspect" status="undefined">
 							<value></value>
 							<regnode name="Position" isopaque="yes">
-								<value>917,231</value>
+								<value>910,315</value>
 							</regnode>
 						</regnode>
 						<regnode name="SimulinkAspect" status="undefined">
@@ -33526,6 +33574,84 @@
 					</attribute>
 					<attribute kind="ID">
 						<value>id-8b748ea2-9404-4260-8580-703b8a5f9e3b</value>
+					</attribute>
+					<attribute kind="IsProminent" status="meta">
+						<value>false</value>
+					</attribute>
+					<attribute kind="ManagedGUID" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="Tolerance" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="Type" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="Value" status="meta">
+						<value></value>
+					</attribute>
+				</reference>
+				<reference id="id-0067-0000040e" kind="Property" role="Property" guid="{b5a58d3c-3f38-4d5d-9800-5ecd2b10ee78}" relid="0x34" referred="id-0065-000000ca">
+					<name>TotalPayloadWeight</name>
+					<regnode name="PartRegs" status="undefined">
+						<value></value>
+						<regnode name="All" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>665,196</value>
+							</regnode>
+						</regnode>
+						<regnode name="DesignSpaceAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>644,273</value>
+							</regnode>
+						</regnode>
+						<regnode name="SimulinkAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>665,196</value>
+							</regnode>
+						</regnode>
+						<regnode name="SolidModeling" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>665,196</value>
+							</regnode>
+						</regnode>
+						<regnode name="SystemCAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>665,196</value>
+							</regnode>
+						</regnode>
+						<regnode name="ValueFlowAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>665,196</value>
+							</regnode>
+						</regnode>
+					</regnode>
+					<attribute kind="ComputationType" status="meta">
+						<value>Addition</value>
+					</attribute>
+					<attribute kind="DataType" status="meta">
+						<value>String</value>
+					</attribute>
+					<attribute kind="DefaultValue" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="Description" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="Dimension" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="Disable" status="meta">
+						<value>false</value>
+					</attribute>
+					<attribute kind="ID">
+						<value>id-b5a58d3c-3f38-4d5d-9800-5ecd2b10ee78</value>
 					</attribute>
 					<attribute kind="IsProminent" status="meta">
 						<value>false</value>
@@ -33741,17 +33867,6 @@
 					<connpoint role="src" target="id-0066-00000101"/>
 					<connpoint role="dst" target="id-0067-000001c6"/>
 				</connection>
-				<connection id="id-0068-000000b8" kind="ValueFlow" role="ValueFlow" guid="{2c8d53d8-590a-4013-bc43-c12ccfcc8041}" relid="0x2b">
-					<name>ValueFlow</name>
-					<regnode name="autorouterPref" isopaque="yes">
-						<value>Sn</value>
-					</regnode>
-					<attribute kind="FormulaVariableName" status="meta">
-						<value></value>
-					</attribute>
-					<connpoint role="dst" target="id-0066-00000102"/>
-					<connpoint role="src" target="id-0067-000001c6"/>
-				</connection>
 				<connection id="id-0068-000000b9" kind="ValueFlow" role="ValueFlow" guid="{b01b3746-5629-4793-89df-91e3bf9e85ed}" relid="0x2c">
 					<name>ValueFlow</name>
 					<regnode name="autorouterPref" isopaque="yes">
@@ -33763,7 +33878,48 @@
 					<connpoint role="dst" target="id-0066-00000102"/>
 					<connpoint role="src" target="id-0067-000001c4"/>
 				</connection>
-				<connection id="id-0068-000000ba" kind="ValueFlow" role="ValueFlow" guid="{529d9572-9fff-4a11-ae21-25b00f372af1}" relid="0x2d">
+				<connection id="id-0068-000000bb" kind="PropertyConstraintBinding" role="PropertyConstraintBinding" guid="{7f32c851-eca6-4459-bc55-f7114b7c454a}" relid="0x2f">
+					<name>PropertyConstraintBinding</name>
+					<regnode name="autorouterPref" isopaque="yes">
+						<value>Ns</value>
+					</regnode>
+					<connpoint role="src" target="id-0066-00000103"/>
+					<connpoint role="dst" target="id-0067-000001c7"/>
+				</connection>
+				<connection id="id-0068-000000bc" kind="ValueFlow" role="ValueFlow" guid="{c42293fc-68df-4f1e-a99f-1fc08e517900}" relid="0x35">
+					<name>ValueFlow</name>
+					<regnode name="autorouterPref" isopaque="yes">
+						<value>Sn</value>
+					</regnode>
+					<attribute kind="FormulaVariableName" status="meta">
+						<value></value>
+					</attribute>
+					<connpoint role="dst" target="id-0066-00000104"/>
+					<connpoint role="src" target="id-0067-000001c6"/>
+				</connection>
+				<connection id="id-0068-000000bd" kind="ValueFlow" role="ValueFlow" guid="{a470e9c1-eca8-4ebe-99a9-312a46d77055}" relid="0x36">
+					<name>ValueFlow</name>
+					<regnode name="autorouterPref" isopaque="yes">
+						<value>Sn</value>
+					</regnode>
+					<attribute kind="FormulaVariableName" status="meta">
+						<value></value>
+					</attribute>
+					<connpoint role="src" target="id-0066-00000104"/>
+					<connpoint role="dst" target="id-0067-0000040e"/>
+				</connection>
+				<connection id="id-0068-000000be" kind="ValueFlow" role="ValueFlow" guid="{dbb56ec3-daee-4223-ba72-9866dcc07ed3}" relid="0x37">
+					<name>ValueFlow</name>
+					<regnode name="autorouterPref" isopaque="yes">
+						<value>Sn</value>
+					</regnode>
+					<attribute kind="FormulaVariableName" status="meta">
+						<value></value>
+					</attribute>
+					<connpoint role="dst" target="id-0066-00000102"/>
+					<connpoint role="src" target="id-0067-0000040e"/>
+				</connection>
+				<connection id="id-0068-000000bf" kind="ValueFlow" role="ValueFlow" guid="{fd9149ae-0b17-45a9-8741-dff2cc8e682b}" relid="0x38">
 					<name>ValueFlow</name>
 					<regnode name="autorouterPref" isopaque="yes">
 						<value>Ew</value>
@@ -33772,14 +33928,6 @@
 						<value></value>
 					</attribute>
 					<connpoint role="src" target="id-0066-00000102"/>
-					<connpoint role="dst" target="id-0067-000001c7"/>
-				</connection>
-				<connection id="id-0068-000000bb" kind="PropertyConstraintBinding" role="PropertyConstraintBinding" guid="{7f32c851-eca6-4459-bc55-f7114b7c454a}" relid="0x2f">
-					<name>PropertyConstraintBinding</name>
-					<regnode name="autorouterPref" isopaque="yes">
-						<value>Ns</value>
-					</regnode>
-					<connpoint role="src" target="id-0066-00000103"/>
 					<connpoint role="dst" target="id-0067-000001c7"/>
 				</connection>
 			</model>
