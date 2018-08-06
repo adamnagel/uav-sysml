@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE project SYSTEM "mga.dtd">
 
-<project guid="{C6708798-629C-4D33-AC0D-1D5E66E2F01F}" cdate="Mon Aug  6 14:51:53 2018" mdate="Mon Aug  6 14:51:53 2018" version="" metaguid="{08AF6D47-590B-0A7D-137D-21B4C1D2DFCD}" metaversion="14.13-t34" metaname="CyPhyML">
+<project guid="{FF391E34-BE49-4994-A4F9-5BDBBC76A326}" cdate="Mon Aug  6 14:51:53 2018" mdate="Mon Aug  6 14:51:53 2018" version="" metaguid="{08AF6D47-590B-0A7D-137D-21B4C1D2DFCD}" metaversion="14.13-t34" metaname="CyPhyML">
 	<name>RootFolder</name>
 	<comment></comment>
 	<author></author>
@@ -32709,7 +32709,7 @@
 					<connpoint role="dst" target="id-0067-000001b2"/>
 				</connection>
 			</model>
-			<model id="id-0065-0000026f" kind="DesignContainer" guid="{7a106217-1efe-430e-8324-c69494b99100}" relid="0x2" childrelidcntr="0x55">
+			<model id="id-0065-0000026f" kind="DesignContainer" guid="{7a106217-1efe-430e-8324-c69494b99100}" relid="0x2" childrelidcntr="0x58">
 				<name>UAV</name>
 				<attribute kind="Cardinality" status="meta">
 					<value></value>
@@ -32727,7 +32727,7 @@
 					<value>50</value>
 				</attribute>
 				<attribute kind="NumAssociatedConfigs">
-					<value>4248/4248</value>
+					<value>4140/4140</value>
 				</attribute>
 				<model id="id-0065-00000270" kind="DesignContainer" role="DesignContainer" guid="{f22da396-232e-4aa8-9ae4-d2f216524153}" derivedfrom="id-0065-0000026c" isinstance="no" isprimary="yes" relid="0x1" childrelidcntr="0x4">
 					<name>IR Sensor</name>
@@ -32843,7 +32843,7 @@
 						<value>51</value>
 					</attribute>
 					<attribute kind="NumAssociatedConfigs">
-						<value>4248/4248</value>
+						<value>4140/4140</value>
 					</attribute>
 					<model id="id-0065-00000271" kind="DesignContainer" role="DesignContainer" guid="{87b124df-7fb6-4ff1-bf24-2ab73ea3a6b9}" derivedfrom="id-0065-0000026d" isinstance="no" isprimary="no" childrelidcntr="0x6">
 						<name>Resolution</name>
@@ -32950,7 +32950,7 @@
 							<value>59</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>4248/4248</value>
+							<value>4140/4140</value>
 						</attribute>
 						<reference id="id-0067-000001b3" kind="Property" role="Property" guid="{d50a843c-2ecf-4d05-9654-bfcf1a82e567}" derivedfrom="id-0067-000001ad" isinstance="no" isprimary="no" isbound="yes">
 							<name>HorizontalResolution</name>
@@ -33042,7 +33042,7 @@
 								<value>9416a1ed-4d5f-4aec-a55a-4cddbcf0b43d</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>252/4248</value>
+								<value>252/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003de" kind="ComponentRef" role="ComponentRef" guid="{63a58fa2-b595-48cf-8f24-44522b71d2b5}" derivedfrom="id-0067-000003dc" isinstance="no" isprimary="no" referred="id-0065-000002a1" isbound="yes">
@@ -33057,7 +33057,7 @@
 								<value>63a58fa2-b595-48cf-8f24-44522b71d2b5</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>0/4248</value>
+								<value>0/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e1" kind="ComponentRef" role="ComponentRef" guid="{83bc605d-686c-40ae-9d71-e00b7c20a906}" derivedfrom="id-0067-000003df" isinstance="no" isprimary="no" referred="id-0065-000002a0" isbound="yes">
@@ -33072,7 +33072,7 @@
 								<value>83bc605d-686c-40ae-9d71-e00b7c20a906</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>0/4248</value>
+								<value>0/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e4" kind="ComponentRef" role="ComponentRef" guid="{e171a7ad-cae8-4216-a4b8-2666e57382c3}" derivedfrom="id-0067-000003e2" isinstance="no" isprimary="no" referred="id-0065-0000029f" isbound="yes">
@@ -33087,7 +33087,7 @@
 								<value>e171a7ad-cae8-4216-a4b8-2666e57382c3</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>0/4248</value>
+								<value>0/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e7" kind="ComponentRef" role="ComponentRef" guid="{fb7e880d-1d6d-4b61-923f-6ab2c2b8d0d7}" derivedfrom="id-0067-000003e5" isinstance="no" isprimary="no" referred="id-0065-0000029d" isbound="yes">
@@ -33102,7 +33102,7 @@
 								<value>fb7e880d-1d6d-4b61-923f-6ab2c2b8d0d7</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>432/4248</value>
+								<value>432/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003ea" kind="ComponentRef" role="ComponentRef" guid="{5940abf9-b7ba-40c1-a639-daf1a23c949d}" derivedfrom="id-0067-000003e8" isinstance="no" isprimary="no" referred="id-0065-0000029c" isbound="yes">
@@ -33117,7 +33117,7 @@
 								<value>5940abf9-b7ba-40c1-a639-daf1a23c949d</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>756/4248</value>
+								<value>756/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003ed" kind="ComponentRef" role="ComponentRef" guid="{712f5f57-de7d-4553-b008-34fa5394c53c}" derivedfrom="id-0067-000003eb" isinstance="no" isprimary="no" referred="id-0065-0000029b" isbound="yes">
@@ -33132,7 +33132,7 @@
 								<value>712f5f57-de7d-4553-b008-34fa5394c53c</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>1152/4248</value>
+								<value>1116/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003f0" kind="ComponentRef" role="ComponentRef" guid="{c80c9252-2060-4a80-b90a-214f50e80dcb}" derivedfrom="id-0067-000003ee" isinstance="no" isprimary="no" referred="id-0065-0000029a" isbound="yes">
@@ -33147,7 +33147,7 @@
 								<value>c80c9252-2060-4a80-b90a-214f50e80dcb</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>108/4248</value>
+								<value>108/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003f3" kind="ComponentRef" role="ComponentRef" guid="{1f4c7823-6a46-43df-86a9-381e3b84773a}" derivedfrom="id-0067-000003f1" isinstance="no" isprimary="no" referred="id-0065-000002a2" isbound="yes">
@@ -33162,7 +33162,7 @@
 								<value>1f4c7823-6a46-43df-86a9-381e3b84773a</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>1548/4248</value>
+								<value>1476/4140</value>
 							</attribute>
 						</reference>
 						<connection isbound="yes" id="id-0068-00000064" kind="ValueFlow" role="ValueFlow" guid="{31cff071-2969-4bdd-b219-0f6f2e8ff2a6}" derivedfrom="id-0068-00000049" isinstance="no" isprimary="no">
@@ -33379,7 +33379,7 @@
 							<value>52</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>4248/4248</value>
+							<value>4140/4140</value>
 						</attribute>
 						<reference id="id-0067-000001b5" kind="Property" role="Property" guid="{5d5ad6b1-ae12-4184-a684-3ff000e4b26f}" derivedfrom="id-0067-000001af" isinstance="no" isprimary="no" referred="id-0065-0000000e" isbound="yes">
 							<name>FOV</name>
@@ -33432,7 +33432,7 @@
 								<value>a867b66c-3442-4ce7-9e60-21dd768a5c8d</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003f8" kind="ComponentRef" role="ComponentRef" guid="{56c3ce60-ec23-43cf-a3f6-44bf66c18689}" derivedfrom="id-0067-000003f7" isinstance="no" isprimary="no" referred="id-0065-0000028e" isbound="yes">
@@ -33447,7 +33447,7 @@
 								<value>56c3ce60-ec23-43cf-a3f6-44bf66c18689</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003fb" kind="ComponentRef" role="ComponentRef" guid="{c2f5c320-095b-46d7-916c-6e6d2093720a}" derivedfrom="id-0067-000003fa" isinstance="no" isprimary="no" referred="id-0065-0000028d" isbound="yes">
@@ -33462,7 +33462,7 @@
 								<value>c2f5c320-095b-46d7-916c-6e6d2093720a</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003fe" kind="ComponentRef" role="ComponentRef" guid="{402b414a-e374-403e-a5f1-12f9f6a0a0c1}" derivedfrom="id-0067-000003fd" isinstance="no" isprimary="no" referred="id-0065-0000028c" isbound="yes">
@@ -33477,7 +33477,7 @@
 								<value>402b414a-e374-403e-a5f1-12f9f6a0a0c1</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-00000401" kind="ComponentRef" role="ComponentRef" guid="{e342aff2-18a7-4575-bd2c-0c7bcb5bbbcb}" derivedfrom="id-0067-00000400" isinstance="no" isprimary="no" referred="id-0065-0000028b" isbound="yes">
@@ -33492,7 +33492,7 @@
 								<value>e342aff2-18a7-4575-bd2c-0c7bcb5bbbcb</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-00000404" kind="ComponentRef" role="ComponentRef" guid="{f1200995-b66a-4540-bd59-4abd6e92febd}" derivedfrom="id-0067-00000403" isinstance="no" isprimary="no" referred="id-0065-0000028a" isbound="yes">
@@ -33507,7 +33507,7 @@
 								<value>f1200995-b66a-4540-bd59-4abd6e92febd</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<connection isbound="yes" id="id-0068-00000076" kind="ValueFlow" role="ValueFlow" guid="{8772c7e7-0d11-48e0-9651-757dd560888b}" derivedfrom="id-0068-0000005c" isinstance="no" isprimary="no">
@@ -33896,7 +33896,7 @@
 						<value>69</value>
 					</attribute>
 					<attribute kind="NumAssociatedConfigs">
-						<value>4248/4248</value>
+						<value>4140/4140</value>
 					</attribute>
 					<model id="id-0065-00000274" kind="DesignContainer" role="DesignContainer" guid="{c0d2c9ca-8332-4b77-8bac-75d3902db853}" derivedfrom="id-0065-0000026d" isinstance="no" isprimary="no" childrelidcntr="0x5">
 						<name>Resolution</name>
@@ -34003,7 +34003,7 @@
 							<value>77</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>4248/4248</value>
+							<value>4140/4140</value>
 						</attribute>
 						<reference id="id-0067-000001b9" kind="Property" role="Property" guid="{08dfd686-f967-4507-98ff-cfc206c90ba3}" derivedfrom="id-0067-000001ad" isinstance="no" isprimary="no" isbound="yes">
 							<name>HorizontalResolution</name>
@@ -34095,7 +34095,7 @@
 								<value>ec99e680-1c5f-4647-8b35-c54d3bd20b55</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>252/4248</value>
+								<value>252/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003dd" kind="ComponentRef" role="ComponentRef" guid="{4ecd17b5-95d4-4c22-b8a9-cb4455910bce}" derivedfrom="id-0067-000003dc" isinstance="no" isprimary="no" referred="id-0065-000002a1" isbound="yes">
@@ -34110,7 +34110,7 @@
 								<value>4ecd17b5-95d4-4c22-b8a9-cb4455910bce</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>0/4248</value>
+								<value>0/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e0" kind="ComponentRef" role="ComponentRef" guid="{fcb04260-7c04-4df5-a58d-c57c542f74d1}" derivedfrom="id-0067-000003df" isinstance="no" isprimary="no" referred="id-0065-000002a0" isbound="yes">
@@ -34125,7 +34125,7 @@
 								<value>fcb04260-7c04-4df5-a58d-c57c542f74d1</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>0/4248</value>
+								<value>0/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e3" kind="ComponentRef" role="ComponentRef" guid="{7d0dd078-fa71-414b-bdaf-cec59af983c1}" derivedfrom="id-0067-000003e2" isinstance="no" isprimary="no" referred="id-0065-0000029f" isbound="yes">
@@ -34140,7 +34140,7 @@
 								<value>7d0dd078-fa71-414b-bdaf-cec59af983c1</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>0/4248</value>
+								<value>0/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e6" kind="ComponentRef" role="ComponentRef" guid="{935ff0d7-9229-4d99-87ad-9ea8dc47c89d}" derivedfrom="id-0067-000003e5" isinstance="no" isprimary="no" referred="id-0065-0000029d" isbound="yes">
@@ -34155,7 +34155,7 @@
 								<value>935ff0d7-9229-4d99-87ad-9ea8dc47c89d</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>432/4248</value>
+								<value>432/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003e9" kind="ComponentRef" role="ComponentRef" guid="{6b919f21-1762-41e2-8536-2bea15f8f049}" derivedfrom="id-0067-000003e8" isinstance="no" isprimary="no" referred="id-0065-0000029c" isbound="yes">
@@ -34170,7 +34170,7 @@
 								<value>6b919f21-1762-41e2-8536-2bea15f8f049</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>756/4248</value>
+								<value>756/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003ec" kind="ComponentRef" role="ComponentRef" guid="{42c6a8ec-4312-4e21-8191-7ba4d92edb3e}" derivedfrom="id-0067-000003eb" isinstance="no" isprimary="no" referred="id-0065-0000029b" isbound="yes">
@@ -34185,7 +34185,7 @@
 								<value>42c6a8ec-4312-4e21-8191-7ba4d92edb3e</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>1152/4248</value>
+								<value>1116/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003ef" kind="ComponentRef" role="ComponentRef" guid="{e650faa5-704a-4969-9ea5-8ebf71cab79d}" derivedfrom="id-0067-000003ee" isinstance="no" isprimary="no" referred="id-0065-0000029a" isbound="yes">
@@ -34200,7 +34200,7 @@
 								<value>e650faa5-704a-4969-9ea5-8ebf71cab79d</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>108/4248</value>
+								<value>108/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003f2" kind="ComponentRef" role="ComponentRef" guid="{9994b8d3-7939-4459-825a-a4e8e61cdb27}" derivedfrom="id-0067-000003f1" isinstance="no" isprimary="no" referred="id-0065-000002a2" isbound="yes">
@@ -34215,7 +34215,7 @@
 								<value>9994b8d3-7939-4459-825a-a4e8e61cdb27</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>1548/4248</value>
+								<value>1476/4140</value>
 							</attribute>
 						</reference>
 						<connection isbound="yes" id="id-0068-0000007f" kind="ValueFlow" role="ValueFlow" guid="{57f5eb20-a78e-4d4d-a54a-f460f0e11cb6}" derivedfrom="id-0068-00000049" isinstance="no" isprimary="no">
@@ -34432,7 +34432,7 @@
 							<value>70</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>4248/4248</value>
+							<value>4140/4140</value>
 						</attribute>
 						<reference id="id-0067-000001bb" kind="Property" role="Property" guid="{dc86d7a6-dc67-4712-b845-594685c1b84b}" derivedfrom="id-0067-000001af" isinstance="no" isprimary="no" referred="id-0065-0000000e" isbound="yes">
 							<name>FOV</name>
@@ -34485,7 +34485,7 @@
 								<value>95d837e9-6fbb-4c18-b820-54122c28c762</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003f9" kind="ComponentRef" role="ComponentRef" guid="{37ef14f0-27b2-4588-ae5c-12b6eade3545}" derivedfrom="id-0067-000003f7" isinstance="no" isprimary="no" referred="id-0065-0000028e" isbound="yes">
@@ -34500,7 +34500,7 @@
 								<value>37ef14f0-27b2-4588-ae5c-12b6eade3545</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003fc" kind="ComponentRef" role="ComponentRef" guid="{7b9de04b-78aa-40bf-9876-ae50410c4a5a}" derivedfrom="id-0067-000003fa" isinstance="no" isprimary="no" referred="id-0065-0000028d" isbound="yes">
@@ -34515,7 +34515,7 @@
 								<value>7b9de04b-78aa-40bf-9876-ae50410c4a5a</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-000003ff" kind="ComponentRef" role="ComponentRef" guid="{9a0390ff-c8ed-4bd5-883d-a71b599ce51b}" derivedfrom="id-0067-000003fd" isinstance="no" isprimary="no" referred="id-0065-0000028c" isbound="yes">
@@ -34530,7 +34530,7 @@
 								<value>9a0390ff-c8ed-4bd5-883d-a71b599ce51b</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-00000402" kind="ComponentRef" role="ComponentRef" guid="{34b55e07-4eb7-49d1-af43-bed2e91b094f}" derivedfrom="id-0067-00000400" isinstance="no" isprimary="no" referred="id-0065-0000028b" isbound="yes">
@@ -34545,7 +34545,7 @@
 								<value>34b55e07-4eb7-49d1-af43-bed2e91b094f</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<reference id="id-0067-00000405" kind="ComponentRef" role="ComponentRef" guid="{e7f00a6f-3769-46d9-ac84-932038920c15}" derivedfrom="id-0067-00000403" isinstance="no" isprimary="no" referred="id-0065-0000028a" isbound="yes">
@@ -34560,7 +34560,7 @@
 								<value>e7f00a6f-3769-46d9-ac84-932038920c15</value>
 							</attribute>
 							<attribute kind="NumAssociatedConfigs">
-								<value>708/4248</value>
+								<value>690/4140</value>
 							</attribute>
 						</reference>
 						<connection isbound="yes" id="id-0068-00000091" kind="ValueFlow" role="ValueFlow" guid="{03349384-5f29-46f1-80a8-1769fae272e0}" derivedfrom="id-0068-0000005c" isinstance="no" isprimary="no">
@@ -34952,7 +34952,7 @@
 						<value>87</value>
 					</attribute>
 					<attribute kind="NumAssociatedConfigs">
-						<value>4248/4248</value>
+						<value>4140/4140</value>
 					</attribute>
 					<reference id="id-0067-000001bf" kind="Property" role="Property" guid="{b182ba74-3d06-4508-8d57-f923a17034eb}" relid="0x2">
 						<name>Flyweight_b</name>
@@ -35329,7 +35329,7 @@
 							<value>f0a6e8e2-7f52-4fc8-8224-ffc9b5fae3da</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>864/4248</value>
+							<value>756/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-00000407" kind="ComponentRef" role="ComponentRef" guid="{ae440625-221d-46b0-ab1b-3e9384a304e1}" relid="0x8" referred="id-0065-0000027a">
@@ -35437,7 +35437,7 @@
 							<value>ae440625-221d-46b0-ab1b-3e9384a304e1</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>3384/4248</value>
+							<value>3384/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-00000415" kind="Property" role="Property" guid="{ccbd2ded-4e57-41e8-bc3c-beb4ebd8e83f}" relid="0xf">
@@ -36063,7 +36063,7 @@
 						<value>90</value>
 					</attribute>
 					<attribute kind="NumAssociatedConfigs">
-						<value>4248/4248</value>
+						<value>4140/4140</value>
 					</attribute>
 					<reference id="id-0067-000001c2" kind="Property" role="Property" guid="{19d88579-8b5d-44f8-af1a-25e628b073df}" relid="0x2" referred="id-0065-000000a8">
 						<name>Wingspan</name>
@@ -36260,7 +36260,7 @@
 							<value>02eab0d6-5b47-4785-959d-a30e782f6e05</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>216/4248</value>
+							<value>216/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-00000409" kind="ComponentRef" role="ComponentRef" guid="{2abfacc6-cf9d-4265-ad00-bdc1fb664942}" relid="0x4" referred="id-0065-00000282">
@@ -36368,7 +36368,7 @@
 							<value>2abfacc6-cf9d-4265-ad00-bdc1fb664942</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>972/4248</value>
+							<value>972/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-0000040a" kind="ComponentRef" role="ComponentRef" guid="{ca1976a3-f4a6-4418-bcff-7818556b0a0e}" relid="0x6" referred="id-0065-00000283">
@@ -36476,7 +36476,7 @@
 							<value>ca1976a3-f4a6-4418-bcff-7818556b0a0e</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>468/4248</value>
+							<value>360/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-0000040b" kind="ComponentRef" role="ComponentRef" guid="{a676041a-1a32-4688-9945-2c69efdeb757}" relid="0x8" referred="id-0065-00000284">
@@ -36584,7 +36584,7 @@
 							<value>a676041a-1a32-4688-9945-2c69efdeb757</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>648/4248</value>
+							<value>648/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-0000040c" kind="ComponentRef" role="ComponentRef" guid="{9f129ba7-9ee6-4f9f-a523-ce628b566321}" relid="0xa" referred="id-0065-00000285">
@@ -36692,7 +36692,7 @@
 							<value>9f129ba7-9ee6-4f9f-a523-ce628b566321</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>972/4248</value>
+							<value>972/4140</value>
 						</attribute>
 					</reference>
 					<reference id="id-0067-0000040d" kind="ComponentRef" role="ComponentRef" guid="{ff892967-0149-475a-bedb-4aebf274b7c3}" relid="0xc" referred="id-0065-00000286">
@@ -36800,7 +36800,7 @@
 							<value>ff892967-0149-475a-bedb-4aebf274b7c3</value>
 						</attribute>
 						<attribute kind="NumAssociatedConfigs">
-							<value>972/4248</value>
+							<value>972/4140</value>
 						</attribute>
 					</reference>
 					<connection id="id-0068-000000a0" kind="ValueFlow" role="ValueFlow" guid="{5b6c3ff1-efa1-4abb-937b-57059f327a82}" relid="0x3">
@@ -37663,6 +37663,36 @@
 					</attribute>
 					<attribute kind="TargetValue">
 						<value>70</value>
+					</attribute>
+				</atom>
+				<atom id="id-0066-0000016c" kind="PropertyConstraint" role="PropertyConstraint" guid="{ec074b10-649b-4f7f-8673-b0f378a4a8c1}" relid="0x56">
+					<name>Fly10kmInUnder15Mins</name>
+					<regnode name="PartRegs" status="undefined">
+						<value></value>
+						<regnode name="DesignSpaceAspect" status="undefined">
+							<value></value>
+							<regnode name="Position" isopaque="yes">
+								<value>714,644</value>
+							</regnode>
+						</regnode>
+					</regnode>
+					<regnode name="namePosition" isopaque="yes">
+						<value>0</value>
+					</regnode>
+					<attribute kind="Domain" status="meta">
+						<value></value>
+					</attribute>
+					<attribute kind="ID" status="meta">
+						<value>0</value>
+					</attribute>
+					<attribute kind="Inactive" status="meta">
+						<value>false</value>
+					</attribute>
+					<attribute kind="TargetType">
+						<value>Must Not Exceed</value>
+					</attribute>
+					<attribute kind="TargetValue">
+						<value>15</value>
 					</attribute>
 				</atom>
 				<reference id="id-0067-000001c3" kind="Property" role="Property" guid="{3daf0d96-93ad-4410-b915-78024b2be0cb}" relid="0x5">
@@ -38872,6 +38902,14 @@
 					</regnode>
 					<connpoint role="src" target="id-0066-0000016b"/>
 					<connpoint role="dst" target="id-0067-0000058a"/>
+				</connection>
+				<connection id="id-0068-00000221" kind="PropertyConstraintBinding" role="PropertyConstraintBinding" guid="{91cf556e-e697-4137-9584-d007f66c87e3}" relid="0x57">
+					<name>PropertyConstraintBinding</name>
+					<regnode name="autorouterPref" isopaque="yes">
+						<value>Sn</value>
+					</regnode>
+					<connpoint role="src" target="id-0066-0000016c"/>
+					<connpoint role="dst" target="id-0067-00000589"/>
 				</connection>
 			</model>
 		</folder>
